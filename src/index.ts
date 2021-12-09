@@ -31,6 +31,6 @@ function addMoney(money: number, message?: string): void{
     }
 }
 
-addMoney(20, 'Din add')
+
 
 
